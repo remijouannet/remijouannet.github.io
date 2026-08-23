@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://remijouan.net/posts/</loc>
+    <lastmod>2026-07-05T17:31:58+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/resume/</loc>
+    <lastmod>2026-07-05T17:31:58+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/contributions/</loc>
+    <lastmod>2026-07-05T17:31:58+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/about/</loc>
+    <lastmod>2026-07-05T18:06:53+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/</loc>
+    <lastmod>2026-07-26T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/posts/libzmq-vsock-pyzmq/</loc>
+    <lastmod>2026-07-26T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://remijouan.net/categories/</loc>
+  </url><url>
+    <loc>https://remijouan.net/tags/</loc>
+  </url>
+</urlset>
