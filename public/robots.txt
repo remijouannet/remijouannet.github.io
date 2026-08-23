@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://remijouan.net/sitemap.xml
+Sitemap: https://remijouannet.github.io/sitemap.xml
