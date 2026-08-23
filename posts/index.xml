@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Rémi Jouannet</title>
+		<link>https://remijouannet.github.io/posts/</link>
+		<description>Recent content in Posts on Rémi Jouannet</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>Copyright © 2026, Rémi Jouannet.</copyright>
+		
+		
+			<lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://remijouannet.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Use VSOCK with libzmq</title>
+				<link>https://remijouannet.github.io/posts/libzmq-vsock-pyzmq/</link>
+				<pubDate>Sun, 26 Jul 2026 00:00:00 +0200</pubDate>
+				<guid>https://remijouannet.github.io/posts/libzmq-vsock-pyzmq/</guid>
+				<description>&lt;h1 id=&#34;use-vsock-with-libzmq&#34;&gt;Use VSOCK with libzmq&lt;/h1&gt;&#xA;&lt;h2 id=&#34;af_vsock&#34;&gt;AF_VSOCK&lt;/h2&gt;&#xA;&lt;p&gt;VSOCK is not new anymore it has been around in Linux kernel since 4.8. &lt;a href=&#34;https://www.youtube.com/watch?v=QzoBB9NO9Dc&#34;&gt;For those&lt;/a&gt; who do not know what this is, it was previously developed by VMware under the name VMCI. AF_VSOCK is a socket address family like AF_INET or AF_UNIX. It&amp;rsquo;s an address family designed for communication between a VM (guest) and the underlying hypervisor (host), you can also build communication between multiple guests on the same host.&#xA;Previously, this kind of communication was done with a serial port, a great example is &lt;a href=&#34;https://pve.proxmox.com/wiki/Qemu-guest-agent&#34;&gt;https://pve.proxmox.com/wiki/Qemu-guest-agent&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
